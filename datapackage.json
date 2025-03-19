@@ -1,11 +1,12 @@
 {
-  "bytes": 25241,
-  "count_of_rows": 688,
-  "hash": "beb9eb3d2bc7d1debc0a683f6c29514e",
+  "bytes": 35282,
+  "count_of_rows": 990,
+  "hash": "c339338ec982df59a1acd71337af6b84",
   "name": "home-affordability",
   "profile": "data-package",
   "resources": [
     {
+      "bytes": 35282,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -17,7 +18,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "mediatype": "text/csv",
+      "hash": "bdeaa4d0d2305d5c8eae04b191f5ba9f",
       "name": "london-home-index",
       "path": "data/london-home-price-index.csv",
       "profile": "tabular-data-resource",
@@ -26,17 +27,17 @@
           {
             "format": "default",
             "name": "New Code",
-            "type": "string"
+            "type": "any"
           },
           {
             "format": "default",
             "name": "Old Code",
-            "type": "string"
+            "type": "any"
           },
           {
             "format": "default",
             "name": "Area",
-            "type": "string"
+            "type": "any"
           },
           {
             "format": "default",
