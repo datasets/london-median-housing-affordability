@@ -1,12 +1,12 @@
 {
-  "bytes": 36889,
-  "count_of_rows": 1035,
-  "hash": "f6e53fb3f4372dae829247372296f5b1",
+  "bytes": 38504,
+  "count_of_rows": 1080,
+  "hash": "020ef3431cdf138d7c4560990384a672",
   "name": "home-affordability",
   "profile": "data-package",
   "resources": [
     {
-      "bytes": 36889,
+      "bytes": 38504,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -18,7 +18,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "e4ee373f4f91bd52c3cf0eb76f3d414d",
+      "hash": "f8a1f8f3174fdc12a90b1eea2a884c14",
       "name": "london-home-index",
       "path": "data/london-home-price-index.csv",
       "profile": "tabular-data-resource",
